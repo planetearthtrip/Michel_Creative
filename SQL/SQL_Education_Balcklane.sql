@@ -13,6 +13,8 @@ END as corp_created_at
 empty or null
 SELECT * FROM
 
+### added Hartmut feature
+
 
 (SELECT FORMATTIMESTAMP(starts_at, 'yyyy-MM-dd') as day_date
 
